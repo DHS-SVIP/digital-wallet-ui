@@ -59,7 +59,17 @@ This page contains 3 mockups with the Digital Wallet branding
 This page contains the symbols applied to all the screen.
 
 ## Developer Artifacts
-Zeplin is a tool designed to help with design development, iteration, version control and collaboration. Zeplin can be used at multiple points in the project lifecycle. We use it to provide a way for stakeholders to view the full collection of screens for understanding and review. We also use Zeplin to aid in the handoff process between the designers and the developers. Once sketch screens have been uploaded to Zeplin, Zeplin automatically generates accurate specs, assets and code snippets, tailored for the platform used by the developers. Developers then access Zeplin under developer accounts where they can access all the specs, assets, code snippets, and style guides that have been generated. Developers can then access the specific screens and the various elements within those screens. By simply clicking on the desired element, the developer is able to download the images files for icons, copy code snippets for stylesheets, and copy color schemes values for use in their development. This interface also provides measurements that the developer can use to render screens exactly as the designers intended.
+
+### Zeplin 
+Zeplin is a tool designed to help with design development, iteration, version control and collaboration. Zeplin can be used at multiple points in the project lifecycle. 
+
+#### For stakeholders
+We use it to provide a way for stakeholders to view the full collection of screens for understanding and review. You can visit our [public Zeplin instance](https://scene.zeplin.io/project/5fb41a91183b2377bdd3f4d0) to see the full collection of screens that have been designed for the digital wallet. This particular instance of Zeplin is read-only so some of the features discussed below will not be available. 
+
+#### For developers
+We also use Zeplin to aid in the handoff process between the designers and the developers. Once our Sketch screens have been uploaded to Zeplin, Zeplin automatically generates accurate specs, assets and code snippets, tailored for the platform used by the developers. Developers then access Zeplin under developer accounts where they can access all the specs, assets, code snippets, and style guides that have been generated. 
+
+Developers can access the specific screens and the various elements within those screens. By simply clicking on the desired element, the developer is able to download the image files for icons, copy code snippets for stylesheets, and copy color scheme values for use in their development. This interface also provides measurements that the developer can use to render screens exactly as the designers intended.
 
 #### Background Image Download
 ![desktop-welcome-background](resources/zeplin_dev_dw_desktop_welcome_background.png)
