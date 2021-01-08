@@ -1,2 +1,59 @@
-# digital-wallet-ds
-The Dignari Digital Wallet Design System - A collection of UI/UX artifacts for digital wallet solutions.
+# Dignari Digital Wallet Design System
+
+Welcome to the Dignari Digital Wallet Design System repo. Here you will find a number of artifacts for use in developing your own digital wallet solutions.
+
+These design artifacts were developed as part of Dignari's participation in the Department of Homeland Security (DHS) Science and Technology (S&T) 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">Trusted User Interface (UI) Digital Wallet Challenge</a>. This competition was a call for "...innovators to design an easy-to-use and trustworthy UI that improves the overall user experience (UX) and management of digital wallet-based credentials.”
+
+You can learn more about our approach, design principles, and see our Stage 1 submission by visiting the <a href="https://www.dignari.com/digitalwallet" target="_blank">Dignari Digital Wallet Design System Site</a>.
+
+## Design Artifacts
+
+All of our design artifacts are published in the `dw-design-assets` folder. This includes color definitions, fonts, icons, screenprints, and Sketch design files.
+
+### Sketch file
+
+At the core of the design artifacts is the master Sketch file which contains 5 pages.
+
+#### Page 1 - Digital Wallet - Design System
+
+![design-system](resources/dw_design_system.png)
+
+This page contains four Artboards: Colors, Typography, Various Components such as buttons, card styles and other as well as Iconography/Graphics.
+
+#### Page 2 - Digital Wallet - Mobile Flows
+
+![mobile](resources/dw_mobile.png)
+
+This page contains nine mobile flows.
+
+- Flow 1 covers login, privacy and disclosures, account creation.
+- Flow 2 covers general views of the app while logged, legal identity folder, US Permanent Resident Card view, University Credential view.
+- Flow 3 covers Education Credential retrieval.
+- Flow 4 covers U.S. Permanent Resident Card retrieval.
+- Flow 5 and 6 cover the creation of a Package, which included adding Education Credentials as well as U.S. Permanent Resident Card to a package and preparing to share the page with a QR code generation.
+- Flow 7 covers the transaction history view as well as Deletion of a package no longer needed.
+- Flow 8 cover various alerts: warning, information, error, success.
+- Flow 9 covers deletion of documents from the legal documents folder.
+
+#### Page 3 - Digital Wallet - Desktop Flows
+
+![desktop](resources/dw_desktop.png)
+
+This page contains four flows.
+
+- Flow 1 covers login, privacy and disclosures, account creation.
+- Flow 2 covers general views of the app while logged, legal identity folder, US Permanent Resident Card view, University Credential view.
+- Flow 3 covers U.S. Permanent Resident Card retrieval.
+- Flow 4 cover the creation of a Package, which included adding Education Credentials as well as U.S. Permanent Resident Card to a package and preparing to share the page with a QR code generation.
+
+#### Page 4 - Digital Wallet - Marketing
+
+![marketing](resources/dw_marketing.png)
+
+This page contains 3 mockups with the Digital Wallet branding
+
+#### Page 5 - Digital Wallet - Symbols
+
+![sybmols](resources/dw_symbols.png)
+
+This page contains the symbols applied to all the screen.
