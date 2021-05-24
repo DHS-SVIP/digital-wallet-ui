@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="26px" viewBox="0 0 38 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <defs>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-1">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-2">
+            <stop stop-color="#DBEC75" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-3">
+            <stop stop-color="#DBEC75" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-4">
+            <stop stop-color="#DCED75" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-5">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-6">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Digital-Wallet---Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="dw-menu" transform="translate(-22.000000, -11.000000)">
+            <g id="Group-5" transform="translate(23.000000, 12.000000)">
+                <path d="M29.5665002,12.2486253 L35.4425002,9.59562534 C36.5295002,9.14462534 36.5355002,7.60562534 35.4505002,7.14762534 L18.7865002,0.103625341 C18.4585002,-0.0343746591 18.0885002,-0.0343746591 17.7595002,0.102625341 L0.816500172,7.15762534 C-0.271499828,7.61062534 -0.272499828,9.15262534 0.815500172,9.60662534 L7.19850017,12.4656253" id="Stroke-125" stroke="url(#linearGradient-1)"></path>
+                <line x1="29.5665002" y1="18.2154253" x2="29.5665002" y2="12.2484253" id="Stroke-127" stroke="url(#linearGradient-2)"></line>
+                <line x1="7.19440017" y1="12.4098253" x2="7.45340017" y2="18.2218253" id="Stroke-129" stroke="url(#linearGradient-3)"></line>
+                <path d="M33.0118002,21.1891253 L33.0118002,15.1011253 C33.0118002,13.7341253 32.9518002,11.6431253 31.6058002,11.4011253" id="Stroke-131" stroke="url(#linearGradient-4)"></path>
+                <path d="M34.4439002,22.6832253 C34.4439002,23.4662253 33.8089002,24.1012253 33.0259002,24.1012253 C32.2429002,24.1012253 31.6079002,23.4662253 31.6079002,22.6832253 C31.6079002,21.9002253 32.2429002,21.2652253 33.0259002,21.2652253 C33.8089002,21.2652253 34.4439002,21.9002253 34.4439002,22.6832253 Z" id="Stroke-133" stroke="url(#linearGradient-5)"></path>
+                <path d="M29.5694002,18.4508253 C29.5694002,20.0408253 24.6264002,21.3298253 18.5274002,21.3298253 C12.4294002,21.3298253 7.48640017,20.0408253 7.48640017,18.4508253 C7.48640017,16.8608253 12.4294002,15.5718253 18.5274002,15.5718253 C24.6264002,15.5718253 29.5694002,16.8608253 29.5694002,18.4508253 Z" id="Stroke-135" stroke="url(#linearGradient-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

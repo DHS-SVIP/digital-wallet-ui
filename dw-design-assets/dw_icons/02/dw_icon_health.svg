@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="39px" viewBox="0 0 30 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-1">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-2">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-3">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-4">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Digital-Wallet---Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="dw-menu" transform="translate(-22.000000, -145.000000)" stroke-width="1.22543656">
+            <g id="Group-6" transform="translate(23.000000, 146.000000)">
+                <g id="Group" transform="translate(0.000000, -0.000000)">
+                    <path d="M25.092039,2.55621114 C26.6973609,2.55621114 28,3.86731003 28,5.48305749 L28,34.0743871 C28,35.6901345 26.6973609,37 25.092039,37 L2.90796096,37 C1.30141363,37 0,35.6901345 0,34.0743871 L0,5.48305749 C0,3.86731003 1.30141363,2.55621114 2.90796096,2.55621114 L25.092039,2.55621114 Z M14.0002451,3.68594044e-14 C15.2538667,3.68594044e-14 16.2685282,1.02371785 16.2685282,2.28424755 L11.7307366,2.28424755 C11.7307366,1.02371785 12.7466235,3.68594044e-14 14.0002451,3.68594044e-14 Z" id="Combined-Shape" stroke="url(#linearGradient-1)"></path>
+                    <line x1="13.9996324" y1="14.9856259" x2="13.9996324" y2="24.153451" id="Stroke-3" stroke="url(#linearGradient-2)"></line>
+                    <line x1="9.30143113" y1="19.5686751" x2="18.3402512" y2="19.5686751" id="Stroke-5" stroke="url(#linearGradient-3)"></line>
+                    <path d="M20.3739857,2.92511959 L20.3739857,4.29048786 C20.3739857,4.91581912 19.8703313,5.42274447 19.2502604,5.42274447 L8.75071994,5.42274447 C8.12942361,5.42274447 7.62576918,4.91581912 7.62576918,4.29048786 L7.62576918,2.92511959" id="Stroke-9" stroke="url(#linearGradient-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

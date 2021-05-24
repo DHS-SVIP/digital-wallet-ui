@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="35px" viewBox="0 0 33 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <defs>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-1">
+            <stop stop-color="#DBEC75" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="121.294137%" x2="100%" y2="-39.1798727%" id="linearGradient-2">
+            <stop stop-color="#CBD678" offset="0%"></stop>
+            <stop stop-color="#D5E476" offset="56.4440738%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-3">
+            <stop stop-color="#DBEC75" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.0849985%" y1="-20.787977%" x2="48.0849985%" y2="108.230012%" id="linearGradient-4">
+            <stop stop-color="#C6D078" offset="0%"></stop>
+            <stop stop-color="#DDEF75" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Digital-Wallet---Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="dw-menu" transform="translate(-22.000000, -52.000000)">
+            <g id="Group-19" transform="translate(23.000000, 53.000000)">
+                <g id="Group-7" transform="translate(-0.000000, -0.000000)">
+                    <path d="M28.498723,30.9346016 C28.498723,32.0756478 27.5688566,33 26.4223018,33 C25.276799,33 24.3469325,32.0756478 24.3469325,30.9346016 C24.3469325,29.7935553 25.276799,28.8681563 26.4223018,28.8681563 C27.5688566,28.8681563 28.498723,29.7935553 28.498723,30.9346016 Z" id="Stroke-93" stroke="url(#linearGradient-1)"></path>
+                    <path d="M7.01007788,30.9346016 C7.01007788,32.0756478 6.08021145,33 4.93365669,33 C3.78815381,33 2.85828738,32.0756478 2.85828738,30.9346016 C2.85828738,29.7935553 3.78815381,28.8681563 4.93365669,28.8681563 C6.08021145,28.8681563 7.01007788,29.7935553 7.01007788,30.9346016 Z" id="Stroke-95" stroke="url(#linearGradient-1)"></path>
+                    <path d="M1.47895045,10.2463861 L1.47895045,3.8732763 C1.47895045,2.44225773 1.41583735,0.252286375 -2.68600223e-14,-2.3802191e-13" id="Stroke-97" stroke="url(#linearGradient-2)"></path>
+                    <path d="M1.55605363,22.9106387 C1.55605363,22.9106387 1.36355866,28.5174678 4.12370516,28.7467239 C6.88490355,28.9749331 26.4226174,28.8629222 26.4226174,28.8629222" id="Stroke-99" stroke="url(#linearGradient-3)"></path>
+                    <path d="M27.7201177,24.9296624 L4.73327258,24.9296624 C2.95874241,24.9296624 1.50714097,23.7080102 1.50714097,22.2152285 L1.50714097,10.121185 C1.50714097,8.62945022 2.95874241,7.40779794 4.73327258,7.40779794 L27.1815525,9.37688787 C30.0647696,9.82074439 31.0114662,11.4799722 31,12.9633323 L30.9473012,22.2152285 C30.9473012,23.7080102 29.4946479,24.9296624 27.7201177,24.9296624 Z" id="Stroke-91" stroke="url(#linearGradient-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
