@@ -93,11 +93,11 @@ Directorate (S&T) of the U.S. Department of Homeland Security (DHS).
 
 Software design artifacts were developed as part of Dignari's participation 
 in the DHS S&T 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">
- Trusted User Interface (UI) Digital Wallet Prize Competition</a>. 
+Trusted User Interface (UI) Digital Wallet Prize Competition</a>. 
 This competition was a call for "...innovators to design an easy-to-use and 
 trustworthy UI that improves the overall user experience (UX) and management of 
-digital wallet-based credentials” and therefore is subject to United States copyright law.  
-The United States Government has unlimited rights in the copyright in the Software, 
+digital wallet-based credentials” and therefore is subject to United States copyright
+law. The United States Government has unlimited rights in the copyright in the Software, 
 which is sufficient to allow end users to download, access, install, copy, modify, 
 and otherwise use the Software for its intended purpose.
 
