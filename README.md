@@ -2,7 +2,7 @@
 
 Welcome to the DHS Silicon Valley Innovation Program Digital Wallet UI Repo. Here you will find a number of artifacts for use in developing your own digital wallet solutions.
 
-These design artifacts were developed as part of Dignari LLC's participation in the Department of Homeland Security (DHS) Science and Technology (S&T) 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">Trusted User Interface (UI) Digital Wallet Challenge</a>. This competition was a call for "...innovators to design an easy-to-use and trustworthy UI that improves the overall user experience (UX) and management of digital wallet-based credentials.”
+These design artifacts were developed as part of Dignari LLC's winning entry in the Department of Homeland Security (DHS) Science and Technology (S&T) 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">Trusted User Interface (UI) Digital Wallet Challenge</a>. This competition was a call for "...innovators to design an easy-to-use and trustworthy UI that improves the overall user experience (UX) and management of digital wallet-based credentials.”
 
 You can learn more about the approach, design principles, and see Dignari's Stage 1 submission by visiting the <a href="https://www.dignari.com/digitalwallet" target="_blank">Dignari Digital Wallet Design System Site</a>.
 
