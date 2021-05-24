@@ -1,10 +1,10 @@
-# Dignari Digital Wallet Design System
+# Digital Wallet User Interface Design System
 
-Welcome to the Dignari Digital Wallet Design System repo. Here you will find a number of artifacts for use in developing your own digital wallet solutions.
+Welcome to the DHS Silicon Valley Innovation Program Digital Wallet UI Repo. Here you will find a number of artifacts for use in developing your own digital wallet solutions.
 
-These design artifacts were developed as part of Dignari's participation in the Department of Homeland Security (DHS) Science and Technology (S&T) 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">Trusted User Interface (UI) Digital Wallet Challenge</a>. This competition was a call for "...innovators to design an easy-to-use and trustworthy UI that improves the overall user experience (UX) and management of digital wallet-based credentials.”
+These design artifacts were developed as part of Dignari LLC's participation in the Department of Homeland Security (DHS) Science and Technology (S&T) 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">Trusted User Interface (UI) Digital Wallet Challenge</a>. This competition was a call for "...innovators to design an easy-to-use and trustworthy UI that improves the overall user experience (UX) and management of digital wallet-based credentials.”
 
-You can learn more about our approach, design principles, and see our Stage 1 submission by visiting the <a href="https://www.dignari.com/digitalwallet" target="_blank">Dignari Digital Wallet Design System Site</a>.
+You can learn more about te approach, design principles, and see Dignari's Stage 1 submission by visiting the <a href="https://www.dignari.com/digitalwallet" target="_blank">Dignari Digital Wallet Design System Site</a>.
 
 ## Design Artifacts
 
@@ -79,3 +79,29 @@ Developers can access the specific screens and the various elements within those
 
 
 ![mobile-login](resources/zeplin_dev_dw_mobile_login.png)
+
+
+# License
+ 
+[MIT License](LICENSE)
+
+Copyright (c) 2021 Dignari, LLC
+
+digital-wallet-ui (the "Software") is Copyright (c) 2021 Dignari, LLC, and was 
+developed and released through a Prize Competition held by the Science and Technology 
+Directorate (S&T) of the U.S. Department of Homeland Security (DHS).
+
+Software design artifacts were developed as part of Dignari's participation 
+in the DHS S&T 2020 Trusted User Interface (UI) Digital Wallet Prize Competition. 
+This competition was a call for "...innovators to design an easy-to-use and 
+trustworthy UI that improves the overall user experience (UX) and management of 
+digital wallet-based credentials” and therefore is subject to United States copyright law.  
+The United States Government has unlimited rights in the copyright in the Software, 
+which is sufficient to allow end users to download, access, install, copy, modify, 
+and otherwise use the Software for its intended purpose.
+
+Specifically, the U.S. Government is providing the Software to Users with a 
+royalty-free, irrevocable, worldwide license to use, disclose, reproduce, prepare 
+derivative works, distribute copies to the public, including by electronic means, 
+and perform publicly and display publicly the Software, in any manner, including by 
+electronic means, and for any purpose whatsoever. See the [MIT License](LICENSE)
