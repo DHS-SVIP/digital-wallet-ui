@@ -108,4 +108,4 @@ Specifically, the U.S. Government is providing the Software to Users with a
 royalty-free, irrevocable, worldwide license to use, disclose, reproduce, prepare 
 derivative works, distribute copies to the public, including by electronic means, 
 and perform publicly and display publicly the Software, in any manner, including by 
-electronic means, and for any purpose whatsoever. See the [MIT License](LICENSE)
+electronic means, and for any purpose whatsoever per the terms of the [MIT License](LICENSE).
