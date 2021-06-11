@@ -1,25 +1,6 @@
 MIT License
 
-Copyright (c) 2021 Dignari, LLC
-
-digital-wallet-ui (the "Software") is Copyright (c) 2021 Dignari, LLC, and was 
-developed and released through a Prize Competition held by the Science and Technology 
-Directorate (S&T) of the U.S. Department of Homeland Security (DHS).
-
-Software design artifacts were developed as part of Dignari's participation 
-in the DHS S&T 2020 Trusted User Interface (UI) Digital Wallet Prize Competition. 
-This competition was a call for "...innovators to design an easy-to-use and 
-trustworthy UI that improves the overall user experience (UX) and management of 
-digital wallet-based credentials” and therefore is subject to United States copyright law.  
-The United States Government has unlimited rights in the copyright in the Software 
-(See DHS-Dignari-Prize-License-Agreement.pdf), which is sufficient to allow end users 
-to download, access, install, copy, modify, and otherwise use the Software for its intended purpose.
-
-Specifically, the U.S. Government is providing the Software to Users with a 
-royalty-free, irrevocable, worldwide license to use, disclose, reproduce, prepare 
-derivative works, distribute copies to the public, including by electronic means, 
-and perform publicly and display publicly the Software, in any manner, including by 
-electronic means, and for any purpose whatsoever.
+Copyright (c) 2021 Dignari LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -34,8 +15,7 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-UNITED STATES, NOR THE UNITED STATES DEPARTMENT OF HOMELAND SECURITY OR 
-ANY OF ITS EMPLOYEES, NOR AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
-DEALINGS IN THE SOFTWARE.
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
