@@ -89,17 +89,18 @@ Developers can access the specific screens and the various elements within those
 
 Copyright (c) 2021 Dignari, LLC
 
-digital-wallet-ui (the "Software") is Copyright (c) 2021 Dignari, LLC, and was 
-developed and released through a Prize Competition held by the Science and Technology 
-Directorate (S&T) of the U.S. Department of Homeland Security (DHS).
+digital-wallet-ui (the "Software") was developed and released through a 
+Prize Competition held by the Science and Technology Directorate (S&T) 
+of the U.S. Department of Homeland Security (DHS).
 
-Software design artifacts were developed as part of Dignari's participation 
-in the DHS S&T 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">
-Trusted User Interface (UI) Digital Wallet Prize Competition</a>. 
+These software design artifacts were developed as part of Dignari LLC's
+winning entry in the DHS S&T 2020 <a href="https://www.dhs.gov/science-and-technology/news/2020/09/08/news-release-st-new-prize-competition-user-interface-digital" target="_blank">Trusted User Interface (UI) Digital Wallet Prize Competition</a>. 
 This competition was a call for "...innovators to design an easy-to-use and 
 trustworthy UI that improves the overall user experience (UX) and management of 
 digital wallet-based credentials” and therefore is subject to United States copyright
-law. The United States Government has unlimited rights in the copyright in the Software
+law. 
+
+The United States Government has unlimited rights in the copyright in the Software
 (See DHS-Dignari-Prize-License-Agreement.pdf), which is sufficient to allow end users 
 to download, access, install, copy, modify, and otherwise use the Software for its intended purpose.
 
